@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋, my name is Simone
 #### I am an italian casual coder
 
 I'm attending **Computer science in Cesena (Alma Mater Studiorum - Università di Bologna)**. 
