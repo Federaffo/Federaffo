@@ -32,4 +32,3 @@ Skills: C#, JAVA, Python, HTML
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Federaffo&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Federaffo&theme=dark&hide_border=true)
