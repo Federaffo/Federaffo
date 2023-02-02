@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 #### I am an italian casual coder
 
-I'm attending **Computer science in Cesena (Alma Mater Studiorum - Università di Bologna)**. 
+I'm attending **Computer science (Alma Mater Studiorum - Università di Bologna)**. 
 I'm really into technology and computer's engineering. 
 
-Skills: C#, JAVA, Python, HTML
+Skills: C#, JAVA, Python, HTML/CSS, PHP 
 
 <!--
 ![Federaffo's Stats](https://github-readme-stats.vercel.app/api?username=Federaffo&theme=dracula&show_icons=true&hide_border=false&count_private=true)
