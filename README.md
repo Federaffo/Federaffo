@@ -28,3 +28,10 @@ Skills: C#, JAVA, Python, HTML
 ![Federaffo's Stats](https://github-readme-stats.vercel.app/api?username=Federaffo&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 ![Federaffo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Federaffo&theme=dracula&hide_border=false)
 ![Federaffo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Federaffo&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=federaffo&show_icons=true&locale=en&layout=compact&theme=dracula" alt="federaffo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=federaffo&show_icons=true&locale=en&theme=dracula" alt="federaffo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=federaffo&theme=dracula" alt="federaffo" /></p>
