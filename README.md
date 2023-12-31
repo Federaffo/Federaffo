@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 🛠 Languages and Tools :
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
+<!--img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'-->
 
 
 #### I am an italian casual coder
