@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Federico
+## Hi there 👋, my name is Federico
 
 
 <!--
@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🛠 Languages and Tools :
-<!--img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'-->
 
 
 #### I am an italian casual coder
@@ -26,9 +24,23 @@ Here are some ideas to get you started:
 Passionate about programming, problem solving and artificial intelligence. I love technology, I love learning things new and I like to experiment.
 
 
-Skills: Python, SQL, C#, JAVA, HTML/CSS, PHP
+### 🛠 Languages and Tools : 
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  
+  <!--img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="Html" alt="Html" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="Css" alt="Css" width="40"/ -->&nbsp;
+</div>
 
 <!--
+  Skills: Python, SQL, C#, JAVA, HTML/CSS, PHP
 Recent graduate in Computer Science . I really like technology and computer engineering.
 
 ![Federaffo's Stats](https://github-readme-stats.vercel.app/api?username=Federaffo&theme=dracula&show_icons=true&hide_border=false&count_private=true)
