@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 #### I am an italian casual coder
 
-I'm attending **Computer science (Alma Mater Studiorum - Università di Bologna)**. 
-I'm really into technology and computer's engineering. 
+Recent graduate in Computer Science (Alma Mater Studiorum - University of Bologna). I really like technology and computer engineering.
 
 Skills: Python, SQL, C#, JAVA, HTML/CSS, PHP
 
