@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 I'm attending **Computer science (Alma Mater Studiorum - Università di Bologna)**. 
 I'm really into technology and computer's engineering. 
 
-Skills: C#, JAVA, Python, HTML/CSS, PHP 
+Skills: Python, SQL, C#, JAVA, HTML/CSS, PHP
 
 <!--
 ![Federaffo's Stats](https://github-readme-stats.vercel.app/api?username=Federaffo&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 ![Federaffo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Federaffo&theme=dracula&hide_border=false)
 ![Federaffo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Federaffo&theme=dracula&show_icons=true&hide_border=false&layout=compact)
--->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Federaffo&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)
+-->
