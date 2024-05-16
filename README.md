@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #### I am an italian casual coder
 
-23 years old, recent graduate in engineering and computer science (Alma Mater Studiorum - University of Bologna). 
+24 years old, recent graduate in engineering and computer science (Alma Mater Studiorum - University of Bologna). 
 Passionate about programming, problem solving and artificial intelligence. I love technology, I love learning things new and I like to experiment.
 
 
